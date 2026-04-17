@@ -1,0 +1,8 @@
+site_name: DevOps Networking Roadmap
+site_description: DevOps Networking Roadmap repository for learning networking concepts from a Backend Developer perspective.
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
