@@ -1,0 +1,16 @@
+baseURL = "https://example.com"
+languageCode = "vi"
+title = "DevOps Networking Roadmap"
+theme = "hugo-texify3"
+
+[params]
+title="DevOps Networking Roadmap"
+author = "DevOps Learner"
+description = "Kho lưu trữ (repository) dành cho việc học Networking từ góc nhìn của một Backend Developer hướng tới DevOps."
+mermaid = true
+math = false
+numberedSubtitles = false
+
+[taxonomies]
+tags = "tags"
+categories = "categories"
